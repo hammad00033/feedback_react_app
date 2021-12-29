@@ -185,8 +185,9 @@ input:focus {
   color: rebeccapurple;
 }
 
+
 .about-link {
-  position: fixed;
+  position: absolute;
   z-index: 10;
   bottom: 20px;
   right: 20px;
